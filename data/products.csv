@@ -1,0 +1,101 @@
+SKU_ID,Product_Name,Category,Supplier,Unit_Price
+SKU001,Body Lotion,Personal Care,UrbanFoods,394.25
+SKU002,Wheat Flour,Staples,UrbanFoods,67.99
+SKU003,Energy Drink,Beverages,DailyNeeds,88.58
+SKU004,Energy Drink,Beverages,QuickSupply,366.56
+SKU005,Popcorn,Snacks,MetroWholesale,316.39
+SKU006,Chocolate,Snacks,DailyNeeds,31.07
+SKU007,Coffee,Beverages,QuickSupply,42.4
+SKU008,Toothpaste,Personal Care,DailyNeeds,266.83
+SKU009,Butter,Dairy,MetroWholesale,311.62
+SKU010,Rice,Staples,QuickSupply,475.47
+SKU011,Soap,Personal Care,QuickSupply,166.21
+SKU012,Wheat Flour,Staples,DailyNeeds,135.69
+SKU013,Face Wash,Personal Care,MetroWholesale,419.93
+SKU014,Cola,Beverages,DailyNeeds,107.47
+SKU015,Soap,Personal Care,QuickSupply,292.5
+SKU016,Wheat Flour,Staples,QuickSupply,235.88
+SKU017,Popcorn,Snacks,DailyNeeds,41.71
+SKU018,Cooking Oil,Staples,QuickSupply,279.05
+SKU019,Chips,Snacks,DailyNeeds,311.38
+SKU020,Rice,Staples,MetroWholesale,405.05
+SKU021,Milk,Dairy,FreshFarm,390.68
+SKU022,Toothpaste,Personal Care,UrbanFoods,359.29
+SKU023,Coffee,Beverages,FreshFarm,310.86
+SKU024,Biscuits,Snacks,FreshFarm,459.18
+SKU025,Curd,Dairy,QuickSupply,65.8
+SKU026,Sugar,Staples,DailyNeeds,326.03
+SKU027,Coffee,Beverages,FreshFarm,203.8
+SKU028,Cola,Beverages,MetroWholesale,289.41
+SKU029,Cola,Beverages,QuickSupply,32.2
+SKU030,Sugar,Staples,FreshFarm,170.89
+SKU031,Body Lotion,Personal Care,MetroWholesale,279.12
+SKU032,Salt,Staples,MetroWholesale,56.95
+SKU033,Coffee,Beverages,DailyNeeds,466.25
+SKU034,Rice,Staples,MetroWholesale,438.3
+SKU035,Face Wash,Personal Care,DailyNeeds,219.92
+SKU036,Juice,Beverages,DailyNeeds,191.02
+SKU037,Milk,Dairy,FreshFarm,330.89
+SKU038,Curd,Dairy,MetroWholesale,433.15
+SKU039,Cola,Beverages,MetroWholesale,352.37
+SKU040,Popcorn,Snacks,UrbanFoods,175.14
+SKU041,Curd,Dairy,FreshFarm,51.15
+SKU042,Popcorn,Snacks,DailyNeeds,140.86
+SKU043,Nachos,Snacks,FreshFarm,91.08
+SKU044,Butter,Dairy,FreshFarm,488.78
+SKU045,Body Lotion,Personal Care,FreshFarm,324.49
+SKU046,Chocolate,Snacks,DailyNeeds,234.94
+SKU047,Toothpaste,Personal Care,UrbanFoods,136.24
+SKU048,Salt,Staples,QuickSupply,324.09
+SKU049,Cola,Beverages,FreshFarm,173.97
+SKU050,Sugar,Staples,DailyNeeds,176.46
+SKU051,Toothpaste,Personal Care,QuickSupply,265.8
+SKU052,Tea,Beverages,DailyNeeds,471.45
+SKU053,Chips,Snacks,UrbanFoods,183.71
+SKU054,Cheese,Dairy,QuickSupply,143.81
+SKU055,Soap,Personal Care,FreshFarm,267.99
+SKU056,Cheese,Dairy,FreshFarm,64.69
+SKU057,Body Lotion,Personal Care,MetroWholesale,443.67
+SKU058,Milk,Dairy,UrbanFoods,356.17
+SKU059,Tea,Beverages,FreshFarm,328.18
+SKU060,Cola,Beverages,DailyNeeds,451.31
+SKU061,Toothpaste,Personal Care,FreshFarm,338.48
+SKU062,Wheat Flour,Staples,QuickSupply,253.09
+SKU063,Energy Drink,Beverages,FreshFarm,104.44
+SKU064,Shampoo,Personal Care,MetroWholesale,105.83
+SKU065,Cola,Beverages,FreshFarm,280.42
+SKU066,Coffee,Beverages,MetroWholesale,253.64
+SKU067,Coffee,Beverages,QuickSupply,188.04
+SKU068,Curd,Dairy,FreshFarm,113.72
+SKU069,Sugar,Staples,DailyNeeds,31.67
+SKU070,Milk,Dairy,DailyNeeds,471.42
+SKU071,Cooking Oil,Staples,UrbanFoods,378.91
+SKU072,Cooking Oil,Staples,FreshFarm,285.33
+SKU073,Tea,Beverages,FreshFarm,56.17
+SKU074,Cooking Oil,Staples,FreshFarm,172.12
+SKU075,Chips,Snacks,QuickSupply,469.35
+SKU076,Nachos,Snacks,QuickSupply,315.2
+SKU077,Nachos,Snacks,QuickSupply,441.14
+SKU078,Milk,Dairy,FreshFarm,357.19
+SKU079,Wheat Flour,Staples,QuickSupply,408.85
+SKU080,Paneer,Dairy,DailyNeeds,265.44
+SKU081,Curd,Dairy,MetroWholesale,113.25
+SKU082,Toothpaste,Personal Care,DailyNeeds,297.86
+SKU083,Cola,Beverages,QuickSupply,280.47
+SKU084,Wheat Flour,Staples,QuickSupply,34.64
+SKU085,Soap,Personal Care,UrbanFoods,80.99
+SKU086,Paneer,Dairy,DailyNeeds,123.59
+SKU087,Salt,Staples,MetroWholesale,113.3
+SKU088,Tea,Beverages,MetroWholesale,485.38
+SKU089,Nachos,Snacks,FreshFarm,211.43
+SKU090,Tea,Beverages,QuickSupply,57.66
+SKU091,Wheat Flour,Staples,MetroWholesale,58.82
+SKU092,Curd,Dairy,MetroWholesale,47.93
+SKU093,Chips,Snacks,QuickSupply,135.1
+SKU094,Paneer,Dairy,MetroWholesale,326.37
+SKU095,Cooking Oil,Staples,MetroWholesale,221.41
+SKU096,Soap,Personal Care,UrbanFoods,383.77
+SKU097,Paneer,Dairy,DailyNeeds,42.08
+SKU098,Curd,Dairy,MetroWholesale,247.6
+SKU099,Biscuits,Snacks,MetroWholesale,247.27
+SKU100,Paneer,Dairy,QuickSupply,315.61

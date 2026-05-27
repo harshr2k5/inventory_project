@@ -1,0 +1,6 @@
+Supplier,Lead_Time_Days,Reliability_Score
+FreshFarm,5,0.97
+QuickSupply,4,0.87
+UrbanFoods,2,0.98
+DailyNeeds,1,0.9
+MetroWholesale,5,0.83
